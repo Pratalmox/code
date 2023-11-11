@@ -12,6 +12,7 @@ class Joueur:
 
     def get_nom(self):
         return self.nom
+        #testing
 
     def get_vie(self):
         return self.vie
