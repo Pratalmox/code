@@ -40,7 +40,7 @@ class Monstre:
 
     def combat(self, combat):
         self.colere -= combat
-        print("oh, le monstre 1 a perdu ", combat, " de colere")
+        print("oh, le monstre 1 a perdu ", combat, " de vie")
 
 
 monstre1 = Monstre(10, "fire", 5, 4)
